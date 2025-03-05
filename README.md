@@ -1,4 +1,4 @@
-# Monday_Group_19_AED_FinalProject
+# Northeastern_University_Management_System_AED
 
 University Management System
 
